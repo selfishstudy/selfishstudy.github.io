@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there, lovely souls! I'm Selfish Study, and I'm thrilled to have you here.Welcome to my study blog, where I'll be sharing personal insights, study tips, and notes that might inspire you on your own learning journey. It's not just about me—it's about creating a community where we can all grow together.Have something to share or a question? Drop me a line via email below. Big hugs!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[selfish.study0@gmail.com](mailto:selfish.study0@gmail.com)
