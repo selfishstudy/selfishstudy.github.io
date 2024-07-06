@@ -9,14 +9,13 @@ name: Selfish Study
 description: aesthetic study inspirations, study tips and notes
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.canva.com/design/DAGKBYOWo3g/MoLWJs5sFCMPGj8V6_qSxw/edit?utm_content=DAGKBYOWo3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-# Flags below are optional
+avatar: C:\Users\marya\Downloads\Play (2).jpg
 #
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: selfish.study0@gmail.com
+  email: selfish.study1@gmail.com
   facebook:
   flickr:
   github: selfishstudy
@@ -26,7 +25,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: www.youtube.com/@SelfishStudy 
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
